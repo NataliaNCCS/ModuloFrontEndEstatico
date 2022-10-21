@@ -1,0 +1,19 @@
+body {
+    background-color: #cccc;
+}
+
+img {
+    width: 350px;
+    height: 200px;
+}
+
+.thumbs {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 900px;
+    margin: 100px auto;
+}
+
+.thumbs h1{
+    margin: 0 auto;
+}
