@@ -1,0 +1,24 @@
+body{
+    font-family: 'Raleway', sans-serif;
+    background-color: #F5EFE6;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    color: #628E90;
+    font-size: 2rem;
+    margin: 0 auto;
+}
+
+.lista{
+    margin-left: 20%;
+}
+
+.lista, .lista a{
+    color: #3C2317;
+}
+
+.lista a:visited{
+    color: #623f2e;
+}
